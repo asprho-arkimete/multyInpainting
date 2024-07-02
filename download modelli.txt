@@ -1,0 +1,30 @@
+crea una cartella: "Lora" nella stessa directory dove si trova il file multy.py
+nella cartella Lora scarica i files:
+https://civitai.com/models/367537/alyssa-milano
+https://civitai.com/models/248499/holly-marie-combs
+https://civitai.com/models/216996/kaley-cuoco-the-big-bang-theory
+https://civitai.com/models/249922/paige-matthews-charmed
+https://civitai.com/models/312711/prue-halliwell-charmed
+
+https://civitai.com/models/411088/detailed-perfection-style-xl-hands-feet-face-body-all-in-one-sd15
+https://civitai.com/models/411088?modelVersionId=486099
+scarica entrambi i modelli di Detailed Perfection style XL (Hands + Feet + Face + Body + All in one) + SD1.5
+https://civitai.com/models/9581/lorareal-refined-pussy
+
+crea una cartella: "vulva" nella stessa directory dove si trova il file multy.py
+nella cartella vulva:
+https://civitai.com/models/2389/airoticarts-vulva-model
+https://civitai.com/models/5152/galaxytimemachines-gtm-inpainting-models
+https://civitai.com/models/8392/refined
+
+
+crea una cartella: "PMI" nella stessa directory dove si trova il file multy.py
+https://civitai.com/models/2661?modelVersionId=15670
+
+copia il progetto : https://github.com/nuwandda/photo-enhancer nella stessa cartella
+ed istalla le librerie
+
+copia il progetto: https://github.com/KiranPranay/swapseed nella stessa cartella ed istalla le librerie
+
+
+
